@@ -5,7 +5,7 @@ public class SkillDemoTest {
     
     @Test
     public void testGetName() {
-        assertEquals("Pranav", SkillDemo.getName());
+        assertEquals("Pranay", SkillDemo.getName());
     }
 
 }
